@@ -60,7 +60,7 @@ The agent follows a **mandatory workflow** defined in its system prompt:
 - **Act:** Makes a recommendation based on consistent precedents.
 - **Reify:** Calls ```log_decision``` to store the new trajectory, allowing the Context Graph to **compound** over time.
 
-## 🧠 Additional tools
+## 🛠 Additional tools
 
 - **List all memory records** (for troubleshooting): ```python memory/list_memory.py```
 - **Delete a record from memory**: ```python memory/delete_memory.py```
