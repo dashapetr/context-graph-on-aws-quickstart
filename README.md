@@ -64,3 +64,12 @@ The agent follows a **mandatory workflow** defined in its system prompt:
 
 - **List all memory records** (for troubleshooting): ```python memory/list_memory.py```
 - **Delete a record from memory**: ```python memory/delete_memory.py```
+
+## 🚀 Resources
+
+1. [Why AI Agents Need Context Graphs And How to Build One With AWS](https://builder.aws.com/content/37x4FlRi41Zvl79jFR8ryG5t8nq/why-ai-agents-need-context-graphs-and-how-to-build-one-with-aws)
+2. [AI’s trillion-dollar opportunity: Context graphs](https://foundationcapital.com/ideas/context-graphs-ais-trillion-dollar-opportunity)
+3. [Hands On With Context Graphs And Neo4j](https://neo4j.com/blog/agentic-ai/hands-on-with-context-graphs-and-neo4j/)
+4. [What Are Context Graphs, Really?](https://subramanya.ai/2026/01/01/what-are-context-graphs-really/)
+5. [How to build a context graph](https://x.com/akoratana/status/2005303231660867619)
+
